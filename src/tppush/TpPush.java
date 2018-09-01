@@ -27,7 +27,7 @@ public class TpPush {
     public static void main(String[] args) {
         // TODO code application logic here
 
-        String title = "Hello Trader";
+        String title = "Hello Trader Tuyên. Thay device token để push";
         String message = "This is auto message from Trader Pro Server. Your key already added";
 
 //        title = "BNB |2| ADA";
